@@ -361,5 +361,147 @@
   "properties":"finesse, reach",
   "type":"martial"
 }
-  ]
+  ],
+"armor":[
+  {
+    "id": "1",
+    "name":"leather",
+    "cost":"10 gp",
+    "armor class":"11 + dex modifier",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"10 lbs",
+    "type":"light"
+  },
+  {
+    "id": "2",
+    "name":"padded",
+    "cost":"5 gp",
+    "armor class":"11 + dex modifier",
+    "strength":"none",
+    "stealth":"disadvantage",
+    "weight":"8 lbs",
+    "type":"light"
+  },
+  {
+    "id": "3",
+    "name":"pride silk outfit",
+    "cost":"500 gp",
+    "armor class":"11 + dex modifier",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"4 lbs",
+    "type":"light"
+  },
+  {
+    "id": "4",
+    "name":"studded leather",
+    "cost":"45 gp",
+    "armor class":"12 + dex modifier",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"13 lbs",
+    "type":"light"
+  },
+  {
+    "id": "5",
+    "name":"breastplate",
+    "cost":"400 gp",
+    "armor class":"14 + Dex modifier (max 2)",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"20 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "6",
+    "name":"chain shirt",
+    "cost":"50 gp",
+    "armor class":"13 + dex modifier(max 2)",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"2 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "7",
+    "name":"half plate",
+    "cost":"750 gp",
+    "armor class":"15 + dex modifier(max 2)",
+    "strength":"none",
+    "stealth":"disadvantage",
+    "weight":"40 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "8",
+    "name":"hide",
+    "cost":"10 gp",
+    "armor class":"12 + dex modifier(max 2)",
+    "strength":"none",
+    "stealth":"none",
+    "weight":"12 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "9",
+    "name":"scale mail",
+    "cost":"50 gp",
+    "armor class":"14 + Dex modifier (max 2)",
+    "strength":"none",
+    "stealth":"disadvantage",
+    "weight":"45 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "10",
+    "name":"spiked armor",
+    "cost":"75 gp",
+    "armor class":"14 + Dex modifier (max 2)",
+    "strength":"none",
+    "stealth":"disadvantage",
+    "weight":"45 lbs",
+    "type":"medium"
+  },
+  {
+    "id": "11",
+    "name":"chain mail",
+    "cost":"75 gp",
+    "armor class":"16",
+    "strength":"13",
+    "stealth":"disadvantage",
+    "weight":"55 lbs",
+    "type":"heavy"
+  },
+  {
+    "id": "12",
+    "name":"plate",
+    "cost":"1500 gp",
+    "armor class":"18",
+    "strength":"15",
+    "stealth":"disadvantage",
+    "weight":"65 lbs",
+    "type":"heavy"
+  },
+  {
+    "id": "13",
+    "name":"ring mail",
+    "cost":"30 gp",
+    "armor class":"14",
+    "strength":"none",
+    "stealth":"disadvantage",
+    "weight":"40 lbs",
+    "type":"heavy"
+  },
+  {
+    "id": "14",
+    "name":"splint",
+    "cost":"200 gp",
+    "armor class":"17",
+    "strength":"15",
+    "stealth":"disadvantage",
+    "weight":"60 lbs",
+    "type":"heavy"
+  }
+]
 }
