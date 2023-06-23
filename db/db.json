@@ -1,52 +1,365 @@
 {
-  "toys": [
+  "Weapons" : [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    }
+      "id":"1",
+      "name":"boomerang",
+      "cost":"1 cp",
+      "damage":"1d4 bludgeoning",
+      "weight":"<1 lb",
+      "properties":"Range 60/120",
+      "type":"martial"
+  },
+  {
+      "id":"2",
+      "name":"club",
+      "cost":"1 sp",
+      "damage":"1d4 bludgeoning",
+      "weight":"2 lbs",
+      "properties":"light",
+      "type":"martial"
+  },
+  {
+      "id":"3",
+      "name":"light crossbow",
+      "cost":"25 gp",
+      "damage":"1d8 piercing",
+      "weight":"5 lb",
+      "properties":"ammunition, loading, range 80/320, two-handed",
+      "type":"martial"
+  },
+  {
+      "id":"4",
+      "name":"dagger",
+      "cost":"2 gp",
+      "damage":"1d4 piercing",
+      "weight":"1 lb",
+      "properties":"Finesse, light, thrown-range 20/60",
+      "type":"martial"
+  },
+  {
+      "id":"5",
+      "name":"dart",
+      "cost":"5 cp",
+      "damage":"1d4 piercing",
+      "weight":"1/4 lb",
+      "properties":"finesse, thrown-range 20/60",
+      "type":"martial"
+  },
+  {
+      "id":"6",
+      "name":"great club",
+      "cost":"2 sp",
+      "damage":"1d8 bludgeoning",
+      "weight":"10 lbs",
+      "properties":"two handed",
+      "type":"martial"
+  },
+  {
+      "id":"7",
+      "name":"handaxe",
+      "cost":"5 gp",
+      "damage":"1d6 slashing",
+      "weight":"2 lbs",
+      "properties":"light, thrown-range 20/60",
+      "type":"martial"
+  },
+  {
+      "id":"8",
+      "name":"javelin",
+      "cost":"5 sp",
+      "damage":"1d6 piercing",
+      "weight":"2 lbs",
+      "properties":"thrown-range 30/120",
+      "type":"martial"
+  },
+  {
+      "id":"9",
+      "name":"light hammer",
+      "cost":"2 gp",
+      "damage":"1d4 bludgeoning",
+      "weight":"2 lbs",
+      "properties":"light, thrown-range 20/60",
+      "type":"martial"
+  },
+  {
+      "id":"10",
+      "name":"mace",
+      "cost":"5 gp",
+      "damage":"1d6 bludgeoning",
+      "weight":"4 lbs",
+      "properties":"none",
+      "type":"martial"
+  },
+  {
+      "id":"11",
+      "name":"quarterstaff",
+      "cost":"2 sp",
+      "damage":"1d6 bludgeoning",
+      "weight":"4 lbs",
+      "properties":"versatile-1d8",
+      "type":"martial"
+  },
+  {
+      "id":"12",
+      "name":"shortbow",
+      "cost":"25 gp",
+      "damage":"1d6 piercing",
+      "weight":"2 lbs",
+      "properties":"ammunition, range 80/320, two-handed",
+      "type":"martial"
+  },
+  {
+      "id":"13",
+      "name":"sickle",
+      "cost":"1 gp",
+      "damage":"1d4 slashing",
+      "weight":"2 lbs",
+      "properties":"light",
+      "type":"martial"
+  },
+  {
+      "id":"14",
+      "name":"sling",
+      "cost":"1 sp",
+      "damage":"1d4 bludgeoning",
+      "weight":"<1 lb",
+      "properties":"ammunition, range 30/120",
+      "type":"martial"
+  },
+  {
+      "id":"15",
+      "name":"spear",
+      "cost":"1 gp",
+      "damage":"1d6 piercing",
+      "weight":"3 lbs",
+      "properties":"thrown-range 20/60, versatile-1d8",
+      "type":"martial"
+  },
+  {
+      "id":"16",
+      "name":"yklwa",
+      "cost":"1 gp",
+      "damage":"1d8 piercing",
+      "weight":"2 lbs",
+      "properties":"thrown-range 10/30",
+      "type":"martial"
+  },
+
+  {
+    "id":"17",
+    "name":"battleaxe",
+    "cost":"10 gp",
+    "damage":"1d8 slashing",
+    "weight":"4 lbs",
+    "properties":"versatile 1d10",
+    "type":"martial"
+},
+{
+    "id":"18",
+    "name":"blowgun",
+    "cost":"10 gp",
+    "damage":"1 piercing",
+    "weight":"1 lbs",
+    "properties":"ammunition, loading, range 25/100",
+    "type":"martial"
+},
+{
+    "id":"19",
+    "name":"hand crossbow",
+    "cost":"75 gp",
+    "damage":"1d6 piercing",
+    "weight":"3 lb",
+    "properties":"ammunition, loading, light, range 30/120",
+    "type":"martial"
+},
+{
+    "id":"20",
+    "name":"heavy crossbow",
+    "cost":"50 gp",
+    "damage":"1d10 piercing",
+    "weight":"18 lb",
+    "properties":"ammunition, heavy, loading, range 100/400, two handed",
+    "type":"martial"
+},
+{
+    "id":"21",
+    "name":"double-bladed scimitar",
+    "cost":"100 gp",
+    "damage":"2d4 slashing",
+    "weight":"6 lb",
+    "properties":"special, two handed",
+    "type":"martial"
+},
+{
+    "id":"22",
+    "name":"flail",
+    "cost":"10 gp",
+    "damage":"1d8 bludgeoning",
+    "weight":"2 lbs",
+    "properties":"none",
+    "type":"martial"
+},
+{
+    "id":"23",
+    "name":"glaive",
+    "cost":"20 gp",
+    "damage":"1d10 slashing",
+    "weight":"6 lbs",
+    "properties":"heavy, reach, two handed",
+    "type":"martial"
+},
+{
+    "id":"24",
+    "name":"great axe",
+    "cost":"30 gp",
+    "damage":"1d12 slashing",
+    "weight":"7 lbs",
+    "properties":"heavy, two handed",
+    "type":"martial"
+},
+{
+    "id":"25",
+    "name":"greatsword",
+    "cost":"50 gp",
+    "damage":"2d6 slashing",
+    "weight":"6 lbs",
+    "properties":"heavy, two handed",
+    "type":"martial"
+},
+{
+    "id":"26",
+    "name":"halberd",
+    "cost":"20 gp",
+    "damage":"1d10 slashing",
+    "weight":"6 lbs",
+    "properties":"heavy, reach, two handed",
+    "type":"martial"
+},
+{
+    "id":"27",
+    "name":"lance",
+    "cost":"10 gp",
+    "damage":"1d12 piercing",
+    "weight":"6 lbs",
+    "properties":"reach, special",
+    "type":"martial"
+},
+{
+    "id":"28",
+    "name":"longbow",
+    "cost":"50 gp",
+    "damage":"1d8 piercing",
+    "weight":"2 lbs",
+    "properties":"ammunition, heavy, range 150/600, two-handed",
+    "type":"martial"
+},
+{
+    "id":"29",
+    "name":"longsword",
+    "cost":"15 gp",
+    "damage":"1d8 slashing",
+    "weight":"3 lbs",
+    "properties":"versatile 1d10",
+    "type":"martial"
+},
+{
+    "id":"30",
+    "name":"maul",
+    "cost":"15 gp",
+    "damage":"2d6 bludgeoning",
+    "weight":"3 lb",
+    "properties":"ammunition, range 30/120",
+    "type":"martial"
+},
+{
+    "id":"31",
+    "name":"morningstar",
+    "cost":"15 gp",
+    "damage":"1d8 piercing",
+    "weight":"4 lbs",
+    "properties":"none",
+    "type":"martial"
+},
+{
+    "id":"32",
+    "name":"net",
+    "cost":"1 gp",
+    "damage":"0 bludgeoning",
+    "weight":"3 lbs",
+    "properties":"special, thrown, range 5/15",
+    "type":"martial"
+},
+{
+  "id":"33",
+  "name":"pike",
+  "cost":"5 gp",
+  "damage":"1d10 piercing",
+  "weight":"18 lbs",
+  "properties":"heavy, reach, two handed",
+  "type":"martial"
+},
+{
+  "id":"34",
+  "name":"rapier",
+  "cost":"25 gp",
+  "damage":"1d8 piercing",
+  "weight":"2 lbs",
+  "properties":"finesse",
+  "type":"martial"
+},
+{
+  "id":"35",
+  "name":"scimitar",
+  "cost":"25 gp",
+  "damage":"1d6 slashing",
+  "weight":"3 lbs",
+  "properties":"finesse, light",
+  "type":"martial"
+},
+{
+  "id":"36",
+  "name":"shortsword",
+  "cost":"10 gp",
+  "damage":"1d6 piercing",
+  "weight":"2 lbs",
+  "properties":"finesse, light",
+  "type":"martial"
+},
+{
+  "id":"37",
+  "name":"trident",
+  "cost":"5 gp",
+  "damage":"1d6 piercing",
+  "weight":"4 lbs",
+  "properties":"thrown-range 20/60, versatile-1d8",
+  "type":"martial"
+},
+{
+  "id":"38",
+  "name":"war pick",
+  "cost":"5 gp",
+  "damage":"1d8 piercing",
+  "weight":"2 lbs",
+  "properties":"none",
+  "type":"martial"
+},
+{
+  "id":"39",
+  "name":"warhammer",
+  "cost":"15 gp",
+  "damage":"1d8 bludgeoning",
+  "weight":"2 lbs",
+  "properties":"versatile 1d10",
+  "type":"martial"
+},
+{
+  "id":"40",
+  "name":"whip",
+  "cost":"2 gp",
+  "damage":"1d4 slashing",
+  "weight":"3 lbs",
+  "properties":"finesse, reach",
+  "type":"martial"
+}
   ]
 }
