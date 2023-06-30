@@ -1,6 +1,7 @@
 {
     "shop": [
-          {
+      {"weapons":[
+        {
             "id": "1",
             "name": "boomerang",
             "cost": "1 cp",
@@ -360,8 +361,8 @@
             "weight": "3 lbs",
             "properties": "finesse, reach",
             "type": "martial weapon"
-          },
-          {
+          }],
+      "armor":[{
             "id": "41",
             "name": "leather",
             "cost": "10 gp",
@@ -500,7 +501,7 @@
             "stealth": "disadvantage",
             "weight": "60 lbs",
             "type": "heavy armor"
-          }
-    ]
+          }]
+      }]
   }
   
