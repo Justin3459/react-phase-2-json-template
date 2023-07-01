@@ -1,14 +1,16 @@
 {
     "shop": [
-      {"weapons":[
-        {
+      {
+        "weapons":[
+          {
             "id": "1",
             "name": "boomerang",
             "cost": "1 cp",
             "damage": "1d4 bludgeoning",
             "weight": "<1 lb",
             "properties": "Range 60/120",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://cdn.dribbble.com/users/1771704/screenshots/14851678/media/d6df3caef2b80a86fda5c2b8c0e36b18.png?compress=1&resize=400x300"
           },
           {
             "id": "2",
@@ -17,7 +19,8 @@
             "damage": "1d4 bludgeoning",
             "weight": "2 lbs",
             "properties": "light",
-            "type": "simple weapon"        
+            "type": "simple weapon",
+            "image": "https://external-preview.redd.it/Bkp1eLal8aJawmMRX6u9b_FpEXhlB9EwL8p88dLvHXo.jpg?auto=webp&s=ba3a8d5d7e5ca603f5b1f4cc140860c534d60bae"
           },
           {
             "id": "3",
@@ -26,7 +29,8 @@
             "damage": "1d8 piercing",
             "weight": "5 lb",
             "properties": "ammunition, loading, range 80/320, two-handed",
-            "type": "simple weapon"        
+            "type": "simple weapon",
+            "image": "https://i.redd.it/xhba7js8vjx11.png"
           },
           {
             "id": "4",
@@ -35,7 +39,8 @@
             "damage": "1d4 piercing",
             "weight": "1 lb",
             "properties": "Finesse, light, thrown-range 20/60",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/24/ed/1a/24ed1a59f6791ae3c5e51a886c9a9687.jpg"
           },
           {
             "id": "5",
@@ -44,7 +49,8 @@
             "damage": "1d4 piercing",
             "weight": "1/4 lb",
             "properties": "finesse, thrown-range 20/60",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/f3/65/fb/f365fbc6dfeac5f24c434539512e57fc.png"
           },
           {
             "id": "6",
@@ -53,7 +59,8 @@
             "damage": "1d8 bludgeoning",
             "weight": "10 lbs",
             "properties": "two handed",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://preview.redd.it/3605036frhg81.jpg?width=640&crop=smart&auto=webp&s=d6638e099e6f765c2c61d08cc45d44720e1644e5"
           },
           {
             "id": "7",
@@ -62,7 +69,8 @@
             "damage": "1d6 slashing",
             "weight": "2 lbs",
             "properties": "light, thrown-range 20/60",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.ytimg.com/vi/L1rZVxfnxrw/hqdefault.jpg"
           },
           {
             "id": "8",
@@ -71,7 +79,8 @@
             "damage": "1d6 piercing",
             "weight": "2 lbs",
             "properties": "thrown-range 30/120",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/eb/2a/43/eb2a430097c607edcb328f7bb2cdbd94.png"
           },
           {
             "id": "9",
@@ -80,7 +89,8 @@
             "damage": "1d4 bludgeoning",
             "weight": "2 lbs",
             "properties": "light, thrown-range 20/60",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/6b/aa/51/6baa51c3e23a5000750d8b8b40b70c42.jpg"
           },
           {
             "id": "10",
@@ -89,7 +99,8 @@
             "damage": "1d6 bludgeoning",
             "weight": "4 lbs",
             "properties": "none",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.redd.it/hb3ldy7vqzl31.jpg"
           },
           {
             "id": "11",
@@ -98,7 +109,8 @@
             "damage": "1d6 bludgeoning",
             "weight": "4 lbs",
             "properties": "versatile-1d8",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/736x/cd/3d/1a/cd3d1a41fa01faf01b67a7455e8ddadd--wheel-of-times-book-stuff.jpg"
           },
           {
             "id": "12",
@@ -107,7 +119,8 @@
             "damage": "1d6 piercing",
             "weight": "2 lbs",
             "properties": "ammunition, range 80/320, two-handed",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/6f/c0/47/6fc0472fe778db82cc64d1606365b31b.png"
           },
           {
             "id": "13",
@@ -116,7 +129,8 @@
             "damage": "1d4 slashing",
             "weight": "2 lbs",
             "properties": "light",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://i.pinimg.com/originals/cc/52/a1/cc52a12146fe6ffa7a8d504a20cd5553.png"
           },
           {
             "id": "14",
@@ -125,7 +139,8 @@
             "damage": "1d4 bludgeoning",
             "weight": "<1 lb",
             "properties": "ammunition, range 30/120",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://th.bing.com/th/id/OIP.V88ZoK1W9HOZObCXZzVvEgHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "15",
@@ -134,7 +149,8 @@
             "damage": "1d6 piercing",
             "weight": "3 lbs",
             "properties": "thrown-range 20/60, versatile-1d8",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://th.bing.com/th/id/OIP.iTMJhnYhIDCID5S2WGFNWwHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "16",
@@ -143,9 +159,9 @@
             "damage": "1d8 piercing",
             "weight": "2 lbs",
             "properties": "thrown-range 10/30",
-            "type": "simple weapon"
+            "type": "simple weapon",
+            "image": "https://mywebsnews.com/wp-content/uploads/2021/11/6ebf0b4281358547d2fe940ddb7198e8.jpg"
           },
-  
           {
             "id": "17",
             "name": "battleaxe",
@@ -153,7 +169,8 @@
             "damage": "1d8 slashing",
             "weight": "4 lbs",
             "properties": "versatile 1d10",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.icgqWUmV32fNnSlyNBbRhAHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "18",
@@ -162,7 +179,8 @@
             "damage": "1 piercing",
             "weight": "1 lbs",
             "properties": "ammunition, loading, range 25/100",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/8f/f6/73/8ff6734a3ddedb96faa22093141b7897.png"
           },
           {
             "id": "19",
@@ -171,7 +189,8 @@
             "damage": "1d6 piercing",
             "weight": "3 lb",
             "properties": "ammunition, loading, light, range 30/120",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/R.bb7c7ae6ad6cf04ed995901d8cb48c8c?rik=QpmeLQ88TRYJFQ&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140824162018%2fmonsterhunterfanon%2fimages%2fb%2fb7%2fDownload_(2).jpg&ehk=sI4iiTVmHtA6U4Ss8q1JE2GJ12DNdH5kO3NnlEGDOPQ%3d&risl=&pid=ImgRaw&r=0"
           },
           {
             "id": "20",
@@ -180,7 +199,8 @@
             "damage": "1d10 piercing",
             "weight": "18 lb",
             "properties": "ammunition, heavy, loading, range 100/400, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/c0/f6/af/c0f6af098215f2dcdd0a75e164a5381e.png"
           },
           {
             "id": "21",
@@ -189,7 +209,8 @@
             "damage": "2d4 slashing",
             "weight": "6 lb",
             "properties": "special, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://preview.redd.it/1fduom7mmss51.png?width=434&format=png&auto=webp&s=48d833938b89772cadb222debe51adb7832730ce"
           },
           {
             "id": "22",
@@ -198,7 +219,8 @@
             "damage": "1d8 bludgeoning",
             "weight": "2 lbs",
             "properties": "none",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP._KQtU9OCp4oUR0hR69AXFgHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "23",
@@ -207,7 +229,8 @@
             "damage": "1d10 slashing",
             "weight": "6 lbs",
             "properties": "heavy, reach, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/10/96/94/109694e4ab73411e22d95efcce495258.jpg"
           },
           {
             "id": "24",
@@ -216,7 +239,8 @@
             "damage": "1d12 slashing",
             "weight": "7 lbs",
             "properties": "heavy, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/65/be/21/65be21b7d72a49975d1c760565c62b20.png"
           },
           {
             "id": "25",
@@ -225,7 +249,8 @@
             "damage": "2d6 slashing",
             "weight": "6 lbs",
             "properties": "heavy, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/236x/d2/eb/fe/d2ebfe6abd13fe1351fc549ed91559f3.jpg?nii=t"
           },
           {
             "id": "26",
@@ -234,7 +259,8 @@
             "damage": "1d10 slashing",
             "weight": "6 lbs",
             "properties": "heavy, reach, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/736x/95/a9/ec/95a9eca9e34cf33d899b0c5605187804.jpg"
           },
           {
             "id": "27",
@@ -243,7 +269,8 @@
             "damage": "1d12 piercing",
             "weight": "6 lbs",
             "properties": "reach, special",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.4toOcCXokCWwsjExrX1LzQHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "28",
@@ -252,7 +279,8 @@
             "damage": "1d8 piercing",
             "weight": "2 lbs",
             "properties": "ammunition, heavy, range 150/600, two-handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.nob7aadqcAh0tI9HpgSZCQHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "29",
@@ -261,7 +289,8 @@
             "damage": "1d8 slashing",
             "weight": "3 lbs",
             "properties": "versatile 1d10",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.e8MmNYQESzXPa2eibr79WAHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "30",
@@ -270,7 +299,8 @@
             "damage": "2d6 bludgeoning",
             "weight": "3 lb",
             "properties": "ammunition, range 30/120",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.redd.it/hk6u96jvro221.png"
           },
           {
             "id": "31",
@@ -279,7 +309,8 @@
             "damage": "1d8 piercing",
             "weight": "4 lbs",
             "properties": "none",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/00/a9/13/00a91335af89982e1c50db079af307b6.png"
           },
           {
             "id": "32",
@@ -288,7 +319,8 @@
             "damage": "0 bludgeoning",
             "weight": "3 lbs",
             "properties": "special, thrown, range 5/15",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/R.2512badf37dd6ba973b89bb2f90228f0?rik=vvFZx74zth083g&pid=ImgRaw&r=0"
           },
           {
             "id": "33",
@@ -297,7 +329,8 @@
             "damage": "1d10 piercing",
             "weight": "18 lbs",
             "properties": "heavy, reach, two handed",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.fXjfiOxPBedQCTnKVgUjswHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "34",
@@ -306,7 +339,8 @@
             "damage": "1d8 piercing",
             "weight": "2 lbs",
             "properties": "finesse",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.LieN5FQEbnaJOzK4fbD2_QHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "35",
@@ -315,7 +349,8 @@
             "damage": "1d6 slashing",
             "weight": "3 lbs",
             "properties": "finesse, light",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/9249/311/1000/1000/637203439315347724.jpeg"
           },
           {
             "id": "36",
@@ -324,7 +359,8 @@
             "damage": "1d6 piercing",
             "weight": "2 lbs",
             "properties": "finesse, light",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/736x/c3/68/8f/c3688f6a6699980c3281d17f1d02fc92.jpg"
           },
           {
             "id": "37",
@@ -333,7 +369,8 @@
             "damage": "1d6 piercing",
             "weight": "4 lbs",
             "properties": "thrown-range 20/60, versatile-1d8",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.sdfwDcdxd8Y9RcBHLtkKNAHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "38",
@@ -342,7 +379,8 @@
             "damage": "1d8 piercing",
             "weight": "2 lbs",
             "properties": "none",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.ZMgyrtXNXV600_s1RpOauQHaHa?pid=ImgDet&rs=1"
           },
           {
             "id": "39",
@@ -351,7 +389,8 @@
             "damage": "1d8 bludgeoning",
             "weight": "2 lbs",
             "properties": "versatile 1d10",
-            "type": "martial weapon"
+            "type": "martial weapon",
+            "image": "https://i.pinimg.com/originals/7a/f9/00/7af900d3c6578ea14abcd8d4ecb48cf2.png"
           },
           {
             "id": "40",
@@ -360,18 +399,11 @@
             "damage": "1d4 slashing",
             "weight": "3 lbs",
             "properties": "finesse, reach",
-            "type": "martial weapon"
-          }],
-      "armor":[{
-            "id": "41",
-            "name": "leather",
-            "cost": "10 gp",
-            "armor class": "11 + dex modifier",
-            "strength": "none",
-            "stealth": "none",
-            "weight": "10 lbs",
-            "type": "light armor"
-          },
+            "type": "martial weapon",
+            "image": "https://th.bing.com/th/id/OIP.LfY_Ac3qNhIYz7xl0iftcwHaHa?pid=ImgDet&rs=1"
+          }
+        ],
+      "armor":[
           {
             "id": "42",
             "name": "padded",
@@ -501,7 +533,9 @@
             "stealth": "disadvantage",
             "weight": "60 lbs",
             "type": "heavy armor"
-          }]
-      }]
+          }
+        ]
+      }
+    ]
   }
   
