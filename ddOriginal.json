@@ -412,7 +412,8 @@
             "strength": "none",
             "stealth": "disadvantage",
             "weight": "8 lbs",
-            "type": "light armor"
+            "type": "light armor",
+            "image":""
           },
           {
             "id": "43",
@@ -422,7 +423,8 @@
             "strength": "none",
             "stealth": "none",
             "weight": "4 lbs",
-            "type": "light armor"
+            "type": "light armor",
+            "image":""
           },
           {
             "id": "44",
@@ -432,7 +434,8 @@
             "strength": "none",
             "stealth": "none",
             "weight": "13 lbs",
-            "type": "light armor"
+            "type": "light armor",
+            "image":""
           },
           {
             "id": "45",
@@ -442,7 +445,8 @@
             "strength": "none",
             "stealth": "none",
             "weight": "20 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "46",
@@ -452,7 +456,8 @@
             "strength": "none",
             "stealth": "none",
             "weight": "2 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "47",
@@ -462,7 +467,8 @@
             "strength": "none",
             "stealth": "disadvantage",
             "weight": "40 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "48",
@@ -472,7 +478,8 @@
             "strength": "none",
             "stealth": "none",
             "weight": "12 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "49",
@@ -482,7 +489,8 @@
             "strength": "none",
             "stealth": "disadvantage",
             "weight": "45 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "50",
@@ -492,7 +500,8 @@
             "strength": "none",
             "stealth": "disadvantage",
             "weight": "45 lbs",
-            "type": "medium armor"
+            "type": "medium armor",
+            "image":""
           },
           {
             "id": "51",
@@ -502,7 +511,8 @@
             "strength": "13",
             "stealth": "disadvantage",
             "weight": "55 lbs",
-            "type": "heavy armor"
+            "type": "heavy armor",
+            "image":""
           },
           {
             "id": "52",
@@ -512,7 +522,8 @@
             "strength": "15",
             "stealth": "disadvantage",
             "weight": "65 lbs",
-            "type": "heavy armor"
+            "type": "heavy armor",
+            "image":""
           },
           {
             "id": "53",
@@ -522,7 +533,8 @@
             "strength": "none",
             "stealth": "disadvantage",
             "weight": "40 lbs",
-            "type": "heavy armor"
+            "type": "heavy armor",
+            "image":""
           },
           {
             "id": "54",
@@ -532,7 +544,8 @@
             "strength": "15",
             "stealth": "disadvantage",
             "weight": "60 lbs",
-            "type": "heavy armor"
+            "type": "heavy armor",
+            "image":""
           }
         ]
       }
